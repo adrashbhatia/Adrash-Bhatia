@@ -25,7 +25,7 @@ Currently exploring **Full-Stack Development** and enhancing my **Java | Android
 
 ---
 
-## Projects (Coming Soon 🚀)  
+## Projects 
 - **LMS App (Learning Management System)** – Mobile app for students, teachers, admins  
 - **Portfolio Website** – Personal site to showcase skills & projects  
 - **E-commerce Backend** – REST API using Spring Boot + MySQL  
